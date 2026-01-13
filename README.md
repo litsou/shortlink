@@ -1,1 +1,1 @@
-"# shortlink" 
+利用Cloudflare的縮短網址
